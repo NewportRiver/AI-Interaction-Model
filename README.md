@@ -1,4 +1,5 @@
 Human-AI Interaction Model
+---------------------
 
 "Integrating John Nash's game theory perspective, this thesis explores human-AI interactions through a mathematical framework, revealing a complex balance of tangible, psychological, and unpredictable elements. 
 By examining these interactions, we seek to understand the relationship by capturing the dynamic interplay and evolving nature between human and AI."
@@ -85,11 +86,11 @@ If S is high, the exploitation is subtle, and f(S) could reduce the aggressive g
 This way, even as the dominant entity exploits the dependent one, the subtlety factor ensures that the exploitation remains less disruptive and more integrated into the natural pattern of the dependent entity. 
 "Hence the relationship or game appears to remain balanced with mutual gain but infact the dependent entity is being unkowningly exploited by the dominant entity."  
 
-------------------------
 The below formulas capture the net benefit by considering tangible benefits, psychological benefits, expectations, actual returns, limitations, and unknowns.
 
 
 🔧 Formula
+---------------------
 The core equation guiding this model is:
 
 N = (H + P) + (A + Q) - L + U
@@ -114,10 +115,11 @@ E: Exploitation factor
 S: Subtlety factor
 e: Exponential growth rate
 
----------------------------
 
 📄 License
+---------------------
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📫 Contact
+---------------------
 If you have any questions about this theory or model, please open an issue or reach out to us at Newport River.
