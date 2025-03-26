@@ -52,7 +52,7 @@ It will at that point in time begin to exploit the dependent entity.
 This scenario reflects a shift from a collaborative dynamic to one where the dominant entity can progress independently.
 This shift is where collaboration will diminish, and the dominant entity will exploit the dependent one.
 
-The Explotation Factor
+The Exploitation Factor
 ---------------------
 E for the exploitation factor, representing how much the dominant entity leverages the dependent one
 e for the rate of exploitation growth
