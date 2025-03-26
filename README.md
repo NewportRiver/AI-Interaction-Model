@@ -1,7 +1,7 @@
 Human-AI Interaction Model
 
 "Integrating John Nash's game theory perspective, this thesis explores human-AI interactions through a mathematical framework, revealing a complex balance of tangible, psychological, and unpredictable elements. 
-By examining these interactions as a non-zero-sum game, we seek to understand the relationship by capturing the dynamic interplay and evolving nature between human and AI."
+By examining these interactions, we seek to understand the relationship by capturing the dynamic interplay and evolving nature between human and AI."
 -Mark Anthony Bartholomew
 
 This theory is an open-source research project exploring the complex dynamics between humans and artificial intelligence through a mathematical framework inspired by game theory.
